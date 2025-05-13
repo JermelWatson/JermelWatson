@@ -2,7 +2,7 @@
 - 👀 I’m interested in new opportunities for growth and experience.
 - 🌱 I’m currently learning Java...
 - 💞️ I’m looking to collaborate on projects that are App related or involves Java, Python, C++ or HTML...
-- 📫 How to reach me at jermel.watson@udc.edu or https://www.linkedin.com/in/jermel-watson/
+- 📫 How to reach me at jwats055@odu.edu or [https://www.linkedin.com/in/jermel-watson/](https://www.linkedin.com/in/jermel-watson/)
 
 <!---
 JermelWatson/JermelWatson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
